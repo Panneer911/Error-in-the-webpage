@@ -1,0 +1,29 @@
+      * {
+            margin: 0;
+            padding: 0;
+        }
+        h2 a {
+      
+            color: green;
+            margin-left: 450px;
+        }
+        table {
+            border: 2px solid white;
+            border-collapse: collapse;
+            padding: 10px 20px;
+            width: 500px;
+            margin-left: 400px;
+        }
+        table td {
+            border: 1px solid black;
+            padding: 10px;
+        }
+        .n1 { background-color: rgb(32, 135, 133); }
+        .n2 { background-color: rgb(107, 28, 26); }
+        .n3 { background-color: rgb(7, 214, 204); }
+        .n4 { background-color: rgb(50, 10, 228); }
+        .n5 { background-color: rgba(19, 41, 16, 0.856); }
+        .n6 { background-color: rgba(88, 42, 42, 0.952) }
+        .n7 { background-color: rgb(255, 230, 0); }
+        .n8 { background-color: rgb(59, 13, 226); }
+        .n9 { background-color: #f513d7; }
